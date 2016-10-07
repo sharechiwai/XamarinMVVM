@@ -13,7 +13,7 @@ namespace XamarinMVVM
         {
             InitializeComponent();
 
-            MainPage = new XamarinMVVM.MainPage();
+            MainPage = new XamarinMVVM.HslColorScrollPage();
         }
 
         protected override void OnStart()
